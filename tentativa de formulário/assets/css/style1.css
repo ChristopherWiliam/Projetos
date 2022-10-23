@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(76, 69, 69);
+    text-align: center;
+}
+.titulo {
+    display: flex;
+    justify-content: center;
+    text-shadow: 0px 0px 3px white;
+}
+
+.dados {
+    display: flex;
+    background-color: white;
+    border: 10px solid black;
+    font-size: 20px;
+    justify-content: center;
+    margin: 30px 300px;
+
+}
+.select {
+    display:flex;
+    margin:auto;
+    padding: auto;
+}
+.escolha {
+    Flex:1;
+    padding: 10px;
+}
+button {
+    margin: 20px;
+    font-size: 30px;
+}
+h4 {
+    color: rgb(76, 69, 69);
+    text-shadow: 0px 0px 3px greenyellow;
+}

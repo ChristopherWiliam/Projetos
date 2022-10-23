@@ -1,0 +1,44 @@
+*{
+
+    box-sizing: border-box;
+
+}
+body {
+
+    background-color: rgb(245, 105, 105);
+    margin:50px;
+    font-size:19px
+    
+}
+h1{
+
+    font-size:60px;
+    font-family:'Rubik Microbe',cursive , Arial, Helvetica, sans-serif;
+    
+    letter-spacing: 5px;
+    color: white;
+    text-shadow: 0px 0px 40px Blue;
+}
+h2 {
+    font-size:40px;
+    font-family: 'Lobster', cursive, Arial, sans-serif;
+   
+    color: white;
+    text-shadow: 0px 0px 5px blue;
+    
+}
+h3 {
+    Color: White;
+    text-shadow: 0px 0px 5px blue;
+    font-size:30px;
+    font-family: 'Lobster',cursive, Arial;
+}
+
+input {
+
+    margin: 10px;
+}
+label {
+
+    display: block;
+}

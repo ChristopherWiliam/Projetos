@@ -1,0 +1,51 @@
+*{
+
+    box-sizing: border-box;
+
+}
+body {
+
+    margin:50px;
+    font-size:20px;
+    background-color: black;
+}
+h1{
+
+    font-size:60px;
+    font-family:'Rubik Microbe',cursive , Arial, Helvetica, sans-serif;
+    text-align: justify;
+    letter-spacing: 5px;
+    color: white;
+    text-shadow: 0px 0px 40px Blue;
+}
+th {
+    font-size:30px;
+    font-family: 'Rubik Wet Paint', cursive, Arial, sans-serif;
+    text-align: center;
+    word-spacing: 3px;
+    color: rgb(15, 11, 0);
+    text-shadow: 0px 0px 7px white;
+    background-color: rgb(91, 255, 91);
+    font-weight: normal;
+}
+td {
+
+    font-size:25px;
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Lobster', cursive,Times, serif;
+    line-height: 40px;
+    text-shadow: 0px 2px 0px red;
+    Background-color: #ccc;
+    
+}
+.dados {
+    background-color: rgb(91, 255, 91);
+    color: black;
+    text-shadow: 0px 0px 7px white;
+
+}
+tbody tr:hover, .dados:hover, td:hover {
+    background-color: white;
+    color: blue;
+} 
